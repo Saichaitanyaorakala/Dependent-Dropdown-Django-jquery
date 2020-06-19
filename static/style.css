@@ -1,0 +1,18 @@
+#id_exec_first_name, label[for="id_exec_first_name"]{
+    display: none;
+}
+#id_exec_last_name, label[for="id_exec_last_name"]{
+    display: none;
+}
+
+#id_exec_title, label[for="id_exec_title"]{
+    display: none;
+}
+
+#id_exec_email, label[for="id_exec_email"]{
+    display: none;
+}
+
+#id_exec_phone_number, label[for="id_exec_phone_number"]{
+    display: none;
+}
